@@ -781,7 +781,3 @@ Agent-specific data belongs in `metadata`.
   }
 }
 ```
-
-This schema is a good stable `v1` base because it cleanly covers agent identity, entity tracking, decision output, action state, revenue metrics, escalation, human review, and failures without baking in one specific agent’s logic.
-
-If you want, I can turn this into an `EVENT_SCHEMA.md` spec plus a separate machine-readable `event-schema.v1.json` file layout next.
