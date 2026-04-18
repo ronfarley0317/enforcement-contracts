@@ -163,11 +163,11 @@ This is part of the **Revenue Enforcement Framework** — open-source autonomous
 
 | Agent | Status | What It Enforces |
 |-------|--------|-----------------|
-| **Enforcement Contracts** (this repo) | ✅ Live | System-wide schema governance for all agents |
+| [Enforcement Contracts](https://github.com/ronfarley0317/enforcement-contracts) (this repo) | ✅ Live | System-wide schema governance for all agents |
 | [Enforcement Live Dashboard](https://github.com/ronfarley0317/enforcement-live-dashboard) | ✅ Live | Watch enforcement agents operate in real time |
 | [Collections Agent](https://github.com/ronfarley0317/collections-agent) | ✅ Live | No invoice sits unpaid beyond terms |
-| Proposal Follow-Up Enforcer | 📋 Planned | No proposal dies in silence |
-| Scope Creep Detector | 📋 Planned | No work without compensation agreement |
+| [Proposal Follow-Up Enforcer](https://github.com/ronfarley0317/proposal-follow-up-enforcer) | ✅ Live | No proposal dies in silence |
+| [Scope Creep Detector](https://github.com/ronfarley0317/scope-creep-compensation-enforcer) | ✅ Live | No work without compensation agreement |
 | Revenue Leakage Counter | 📋 Planned | See how fast your business leaks revenue |
 
 ---
